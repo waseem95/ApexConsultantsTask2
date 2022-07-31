@@ -10,5 +10,6 @@
     <string name="note">At least one guest in the party must have a reservation. Guests without reservations must remain in the same booking party in order to enter</string>
     <string name="conflicts_found">conflicts found</string>
     <string name="select_reservation">Select at least one Guest that has a reservation continue</string>
-    <string name="success">Success</string>
+    <string name="success">Are you sure you want to confirm?</string>
+    <string name="done">Done</string>
 </resources>

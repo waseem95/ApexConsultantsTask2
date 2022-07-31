@@ -58,8 +58,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/topBarLayout"
-        tools:itemCount="100"
-        android:layout_marginBottom="@dimen/dp_16"
+        tools:itemCount="10"
         tools:listitem="@layout/guests_item" />
 
     <ImageView
@@ -77,6 +76,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/dp_8"
         android:layout_marginEnd="@dimen/dp_12"
+        android:layout_marginBottom="16dp"
         android:text="@string/note"
         android:textColor="@color/black"
         android:textSize="@dimen/sp_14"

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="toolbar_title_imageview_width">105dp</dimen>
+	<dimen name="toolbar_title_imageview_height">23dp</dimen>
+	<dimen name="toolbar_title_imageview_top">20dp</dimen>
+	<dimen name="toolbar_title_imageview_bottom">18dp</dimen>
+	<dimen name="toolbar_profile_imageview_widthHeight">40dp</dimen>
+	<dimen name="toolbar_back_imageview_widthHeight">32dp</dimen>
+	<dimen name="toolbar_profile_imageview_end">10dp</dimen>
+	<dimen name="toolbar_padding">5dp</dimen>
+	<dimen name="toolbar_title_textsize">16dp</dimen>
+	<dimen name="toolbar_title_second_textsize">18dp</dimen>
+	<dimen name="toolbar_title_third_textsize">16dp</dimen>
+	<dimen name="toolbar_title_fourth_textsize">12dp</dimen>
+
+	<dimen name="toolbar_second_padding">10dp</dimen>
+	<dimen name="welcome_login_button_textsize">15dp</dimen>
+	<dimen name="welcome_register_button_top">15dp</dimen>
+	<dimen name="welcome_linearlayout_bottom">15dp</dimen>
+	<dimen name="welcome_linearlayout_height">55dp</dimen>
+	<dimen name="welcome_sponsors_label_textsize">17dp</dimen>
+	<dimen name="welcome_sponsors_label_bottom">15dp</dimen>
+	<dimen name="welcome_logo_bottom">20dp</dimen>
+	<dimen name="welcome_login_here_top_bottom">20dp</dimen>
+
+	<dimen name="status_bar_height">24dp</dimen>
+	<dimen name="toolbar_label_one_textsize">16dp</dimen>
+	<dimen name="tab_height">45dp</dimen>
+	<dimen name="login_socialMediaWidthHeight">40dp</dimen>
+	<dimen name="login_socialMediaStartEnd">10dp</dimen>
+
+	<dimen name="register_linearlayout_top">15dp</dimen>
+	<dimen name="register_label_textsize">13dp</dimen>
+	<dimen name="register_sign_up_with_email_label_textview_textsize">32dp</dimen>
+	<dimen name="register_input_layout_register_first_name_editText_textsize">14dp</dimen>
+	<dimen name="register_create_account_button_top_bottom">20dp</dimen>
+
+	<dimen name="register_edittext_padding">10dp</dimen>
+	<dimen name="register_edittext_textsize">13dp</dimen>
+	<dimen name="register_terms_checkbox_top">15dp</dimen>
+	<dimen name="register_toolbar_padding_end">15dp</dimen>
+	<dimen name="register_toolbar_margin_end">12dp</dimen>
+	<dimen name="register_terms_checkBox_textsize">12dp</dimen>
+	<dimen name="register_create_account_button_height">55dp</dimen>
+	<dimen name="register_create_account_button_textsize">15dp</dimen>
+	<dimen name="register_progress_bar_margin">10dp</dimen>
+
+	<dimen name="login_layout_email_marginStartEnd">30dp</dimen>
+	<dimen name="login_layout_email_textSize">11dp</dimen>
+	<dimen name="login_layout_email_textSize2">13dp</dimen>
+	<dimen name="login_layout_email_marginBottom">15dp</dimen>
+	<dimen name="login_layout_password_marginBottom">22dp</dimen>
+	<dimen name="login_button_bottom">22dp</dimen>
+	<dimen name="login_button_StartEnd">25dp</dimen>
+	<dimen name="login_button_textsize">11dp</dimen>
+	<dimen name="login_button_height">40dp</dimen>
+	<dimen name="login_logo_imageView_width">130dp</dimen>
+	<dimen name="login_logo_imageView_top">65dp</dimen>
+	<dimen name="login_email_edittext_padding_bottom">15dp</dimen>
+	<dimen name="login_forgotpassword_label_textView_padding_bottom_top">12dp</dimen>
+	<dimen name="login_register_textView_padding">15dp</dimen>
+	<dimen name="login_forgotpassword_label_relativelayout_top">55dp</dimen>
+	<dimen name="login_textView5_textsize">15dp</dimen>
+	<dimen name="login_textView4_top">12dp</dimen>
+	<dimen name="login_textView4_textsize">12dp</dimen>
+	<dimen name="login_textView4_start_end">15dp</dimen>
+
+	<dimen name="welcome_login_with_textview_textsize">17dp</dimen>
+	<dimen name="explore_ddw_logo_imageView_height">60dp</dimen>
+	<dimen name="explore_ddw_logo_imageView_top">25dp</dimen>
+	<dimen name="explore_page_margin_start_end">12dp</dimen>
+	<dimen name="explore_view_top">19dp</dimen>
+	<dimen name="explore_logo_parent_left_margin">20dp</dimen>
+	<dimen name="explore_top_picks_label_textView_top">20dp</dimen>
+	<dimen name="explore_top_picks_label_textView_textsize">19dp</dimen>
+	<dimen name="explore_top_picks_recycler_view_top">15dp</dimen>
+	<dimen name="explore_top_pick_background_bottom">-120dp</dimen>
+	<dimen name="top_picks_listing_tab_view07_start">8dp</dimen>
+	<dimen name="top_picks_listing_tab_imageView_width">260dp</dimen>
+	<dimen name="top_picks_listing_tab_bottom">15dp</dimen>
+	<dimen name="top_picks_listing_tab_imageView_height">150dp</dimen>
+	<dimen name="top_picks_listing_tab_imageView_start">15dp</dimen>
+	<dimen name="top_picks_listing_tab_category_textView_start_top">10dp</dimen>
+	<dimen name="top_picks_listing_tab_category_textView_padding_start_end">10dp</dimen>
+	<dimen name="top_picks_listing_tab_category_textView_textsize">9dp</dimen>
+	<dimen name="top_picks_listing_tab_date_top">18dp</dimen>
+	<dimen name="top_picks_listing_tab_date_textsize">9dp</dimen>
+	<dimen name="top_picks_listing_tab_title_start">15dp</dimen>
+	<dimen name="top_picks_listing_tab_title_textsize">16dp</dimen>
+	<dimen name="top_picks_listing_tab_favorite_relativelayout_end">15dp</dimen>
+	<dimen name="top_picks_listing_tab_favorite_relativelayout_bottom">-15dp</dimen>
+	<dimen name="top_picks_listing_tab_favorite_icon_size">15dp</dimen>
+	<dimen name="top_picks_listing_tab_favorite_relativelayout_width_height">30dp</dimen>
+	<dimen name="explore_upcoming_programme_listing_tab_imageView_width">180dp</dimen>
+	<dimen name="explore_upcoming_programme_listing_tab_imageView_height">120dp</dimen>
+	<dimen name="explore_upcoming_wayfinding_tab_imageView_height">100dp</dimen>
+	<dimen name="explore_upcoming_programme_listing_tab_category_textView_top">12dp</dimen>
+	<dimen name="explore_upcoming_programme_listing_tab_date_textView_start">10dp</dimen>
+	<dimen name="explore_upcoming_programme_listing_tab_title_textView_top">5dp</dimen>
+
+	<dimen name="explore_supportors_date_textView_textsize">8dp</dimen>
+	<dimen name="explore_supportors_imageView_width_height">70dp</dimen>
+	<dimen name="explore_latest_listing_tab_imageView_width">100dp</dimen>
+	<dimen name="explore_latest_listing_tab_imageView_height">70dp</dimen>
+	<dimen name="explore_latest_relativelayout_two_width">160dp</dimen>
+	<dimen name="explore_latest_listing_tab_title_textView_textsize">10dp</dimen>
+	<dimen name="dialog_linearMarginStartEndBottom">15dp</dimen>
+	<dimen name="dialog_textView109Top">25dp</dimen>
+	<dimen name="dialog_textView109Bottom">12dp</dimen>
+	<dimen name="dialog_textView131StartEnd">25dp</dimen>
+	<dimen name="dialog_textView131Bottom">20dp</dimen>
+	<dimen name="dialog_button16Height">35dp</dimen>
+	<dimen name="dialog_relativeStart">10dp</dimen>
+	<dimen name="dialog_textsize03">11dp</dimen>
+	<dimen name="dialog_textsize02">12dp</dimen>
+	<dimen name="dialog_textsize">16dp</dimen>
+	<dimen name="twitter_login_buton_width_height">25dp</dimen>
+	<dimen name="instagram_login_button_width_height">25dp</dimen>
+
+
+	<dimen name="toolbar_textview_start">20dp</dimen>
+
+	<dimen name="programme_detail_viewpager_height">210dp</dimen>
+	<dimen name="programme_detail_indicator_bottom">15dp</dimen>
+	<dimen name="programme_detail_favorite_share_relativelayout_width_height">30dp</dimen>
+	<dimen name="pdf_close_imageview_width_height">25dp</dimen>
+	<dimen name="programme_detail_share_rl_end">15dp</dimen>
+	<dimen name="programme_detail_fav_rl_end">10dp</dimen>
+	<dimen name="programme_detail_favorite_share_rl_top">20dp</dimen>
+	<dimen name="programme_detail_share_imageview_margin">7dp</dimen>
+	<dimen name="programme_detail_start">25dp</dimen>
+	<dimen name="programme_detail_indicator_start">10dp</dimen>
+	<dimen name="programme_detail_category_textView_top">25dp</dimen>
+	<dimen name="programme_detail_date_times_imageView_width_height">12dp</dimen>
+	<dimen name="programme_detail_title_textView_textsize">26dp</dimen>
+	<dimen name="programme_detail_title_textView_spacing">-15dp</dimen>
+	<dimen name="programme_detail_designer_textView_textsize">12dp</dimen>
+	<dimen name="programme_detail_date_times_rl_top">20dp</dimen>
+	<dimen name="programme_detail_multiple_rl_top">6dp</dimen>
+	<dimen name="programme_detail_date_textView_start">10dp</dimen>
+	<dimen name="programme_detail_pdf_files_label_textView_textsize">17dp</dimen>
+	<dimen name="programme_detail_brief_rl_top">15dp</dimen>
+	<dimen name="programme_detail_location_ll_top">25dp</dimen>
+	<dimen name="programme_detail_location_cntct_add_label_textView_padding_end">25dp</dimen>
+	<dimen name="programme_detail_location_cntct_add_linespacing">8dp</dimen>
+	<dimen name="programme_detail_location_contact_imageView_height">150dp</dimen>
+	<dimen name="programme_detail_get_direction_bottom">15dp</dimen>
+	<dimen name="programme_detail_get_direction_textsize">12dp</dimen>
+
+	<dimen name="custom_profile_image">30dp</dimen>
+	<dimen name="custom_profile_padding">2dp</dimen>
+	<dimen name="custom_profile_textsize">13dp</dimen>
+
+    <dimen name="notificationtab_imageviewWidthHeight">25dp</dimen>
+	<dimen name="notificationtab_textViewCounterWidthHeight">15dp</dimen>
+	<dimen name="notificationtab_label_textsize">9dp</dimen>
+	<dimen name="notificationtab_counter_textsize">10dp</dimen>
+	<dimen name="notificationtab_padding">3dp</dimen>
+
+    <dimen name="size_default_height">250dp</dimen>
+	<dimen name="password_visibility_imageview_width_height">25dp</dimen>
+	<dimen name="dialog_margin">20dp</dimen>
+	<dimen name="selectmedia_textViewGalleryPadding">15dp</dimen>
+	<dimen name="selectmedia_view52Margin">5dp</dimen>
+	<dimen name="selectmedia_textsize">18dp</dimen>
+
+	<dimen name="register_linearLayout_two_top">20dp</dimen>
+
+	<dimen name="welcome_sponsor_imageView_height">30dp</dimen>
+	<dimen name="welcome_sponsor_imageView_d3_height">50dp</dimen>
+	<dimen name="welcome_sponsor_textView_top">15dp</dimen>
+	<dimen name="welcome_sponsor_imageView_top">8dp</dimen>
+	<dimen name="welcome_sponsor_textView_textsize">11dp</dimen>
+	<dimen name="welcome_login_button_height">45dp</dimen>
+
+	<dimen name="welcome_logo_imageView_height">90dp</dimen>
+	<dimen name="welcome_logo_imageView_bottom">20dp</dimen>
+	<dimen name="welcome_facebook_button_end">5dp</dimen>
+	<dimen name="welcome_facebook_button_start">3dp</dimen>
+	<dimen name="welcome_login_button_padding_start">10dp</dimen>
+	<dimen name="welcome_fb_button_padding_start">22dp</dimen>
+	<dimen name="welcome_register_label_textView_pading_start_end">8dp</dimen>
+	<dimen name="welcome_register_label_textView_pading_top_bottom">2dp</dimen>
+	<dimen name="welcome_register_label_textView_start">8dp</dimen>
+
+	<dimen name="dialog_regConfirm_imageView3WidthHeight">80dp</dimen>
+	<dimen name="dialog_regConfirm_imageView3Top">22dp</dimen>
+	<dimen name="dialog_regConfirm_textView5Top">12dp</dimen>
+	<dimen name="dialog_regConfirm_textView5StartEnd">22dp</dimen>
+	<dimen name="dialog_regConfirm_imageView14WidthHeight">25dp</dimen>
+	<dimen name="dialog_regConfirm_imageView14padding">4dp</dimen>
+	<dimen name="dialog_regConfirm_textsize01">16dp</dimen>
+
+	<dimen name="user_profile_user_image_img_width_height">55dp</dimen>
+	<dimen name="user_profile_country_flag_imageView_width">15dp</dimen>
+	<dimen name="user_profile_arrow_width">12dp</dimen>
+	<dimen name="user_profile_rl_img_bottom">15dp</dimen>
+	<dimen name="user_profile_edit_tv_pading_start_end">10dp</dimen>
+	<dimen name="user_profile_edit_tv_pading_top_bottom">3dp</dimen>
+	<dimen name="user_profile_edit_tv_textsize">13dp</dimen>
+	<dimen name="user_profile_edit_tv_start">15dp</dimen>
+	<dimen name="user_profile_change_avatar_tv_top">10dp</dimen>
+	<dimen name="user_profile_myinterest_label_tv_top">20dp</dimen>
+	<dimen name="user_profile_myinterest_label_tv_textsize">14dp</dimen>
+	<dimen name="user_profile_view_top">12dp</dimen>
+	<dimen name="user_profile_name_edittext_textsize">14dp</dimen>
+
+	<dimen name="user_profile_name_title_textsize">18dp</dimen>
+
+	<dimen name="latest_details_imageview_height">260dp</dimen>
+
+	<dimen name="programme_list_tabs_height">75dp</dimen>
+	<dimen name="programme_list_tabs_start_end">10dp</dimen>
+	<dimen name="programme_list_map_textView_width">80dp</dimen>
+	<dimen name="programme_list_map_textView_padding_top_bottom">5dp</dimen>
+	<dimen name="programme_list_map_textView_textsize">9dp</dimen>
+	<dimen name="programme_list_map_button_width">50dp</dimen>
+
+	<dimen name="d3_view_top_bottom">5dp</dimen>
+
+
+	<dimen name="about_navigation_img_width_height">40dp</dimen>
+	<dimen name="about_navigation_img_padding">9dp</dimen>
+    <dimen name="toolbar_label_padding_start">10dp</dimen>
+
+	<dimen name="no_data_textsize">13dp</dimen>
+	<dimen name="no_data_textsize_medium">14dp</dimen>
+
+	<dimen name="latest_detail_category_tv_start_end">7dp</dimen>
+	<dimen name="latest_detail_title_tv_textsize">24dp</dimen>
+	<dimen name="latest_detail_title_tv_spacing">-10dp</dimen>
+
+	<dimen name="more_imageview_width_height">13dp</dimen>
+	<dimen name="more_highlights_tv_padding_top_bottom">5dp</dimen>
+	<dimen name="more_highlights_tv_textsize">16dp</dimen>
+	<dimen name="more_highlights_tv_textsize_small">20dp</dimen>
+
+	<dimen name="pdf_fragment_lb_tv_textsize">11dp</dimen>
+	<dimen name="pdf_fragment_lb_tv_padding_end">15dp</dimen>
+	<dimen name="pdf_fragment_lb_tv_padding_start">30dp</dimen>
+	<dimen name="pdf_fragment_close_img_margin">10dp</dimen>
+	<dimen name="pdf_fragment_close_img_padding">7dp</dimen>
+
+	<dimen name="programme_toolbar_search_width_height">22dp</dimen>
+	<dimen name="programme_toolbar_favorite_padding_end">7dp</dimen>
+	<dimen name="programme_search_result_tv_textsize">12dp</dimen>
+	<dimen name="programme_toolbar_favorite_padding">6dp</dimen>
+    <dimen name="programme_toolbar_filter_padding">8dp</dimen>
+	<dimen name="programme_gallery_tab_width">180dp</dimen>
+
+	<dimen name="personal_calendar_tab_padding_top_bottom_start">15dp</dimen>
+	<dimen name="personal_calendar_tab_padding_end">20dp</dimen>
+	<dimen name="personal_calendar_tab_month_textsize">12dp</dimen>
+	<dimen name="personal_calendar_tab_date_textsize">33dp</dimen>
+
+	<dimen name="supporters_partners_column_width">80dp</dimen>
+	<dimen name="supporters_partners_column_spacing">5dp</dimen>
+
+	<dimen name="pdf_label_tv_padding_start_end">15dp</dimen>
+	<dimen name="pdf_label_tv_padding_top_bottom">10dp</dimen>
+	<dimen name="pdf_label_tv_drawable_padding">12dp</dimen>
+
+    <dimen name="programme_listing_tab_title_textsize">17dp</dimen>
+	<dimen name="programme_listing_tab_date_textsize">14dp</dimen>
+    <dimen name="programme_listing_tab_img_width_height">80dp</dimen>
+    <dimen name="programme_listing_tab_like_rl_width_height">25dp</dimen>
+    <dimen name="programme_listing_tab_like_rl_top">7dp</dimen>
+	<dimen name="programme_listing_category_padding_start_end">9dp</dimen>
+
+	<dimen name="directionpage_linearLayout09Top">15dp</dimen>
+	<dimen name="directionpage_imageView33WidthHeight">10dp</dimen>
+	<dimen name="directionpage_imageView33End">5dp</dimen>
+	<dimen name="directionpage_textView65End">10dp</dimen>
+	<dimen name="directionpage_map_directionTop">10dp</dimen>
+	<dimen name="directionpage_textsize01">11dp</dimen>
+	<dimen name="directionpage_textView66">15dp</dimen>
+	<dimen name="directionpage_bottompadding">5dp</dimen>
+
+	<dimen name="dp_20">15dp</dimen>
+	<dimen name="btn_height">37dp</dimen>
+	<dimen name="sp_16">13dp</dimen>
+	<dimen name="dp_16">13dp</dimen>
+	<dimen name="dp_8">6dp</dimen>
+	<dimen name="dp_4">4dp</dimen>
+	<dimen name="sp_18">15dp</dimen>
+
+	<dimen name="ar_textsize1">12dp</dimen>
+	<dimen name="ar_textsize2">13dp</dimen>
+	<dimen name="ar_textsize2_half">6dp</dimen>
+
+	<dimen name="programme_detail_adress_label_textsize">80dp</dimen>
+    <dimen name="profile_add_tag_textview_height">30dp</dimen>
+	<dimen name="profile_add_tag_tv_pad_start_end">8dp</dimen>
+    <dimen name="explore_swiperefresh_top">34dp</dimen>
+
+	<dimen name="filter_button_height">35dp</dimen>
+    <dimen name="dtd_dialog_width">275dp</dimen>
+
+	<!--ithra-->
+	<dimen name="welcome_login_button_start_end">25dp</dimen>
+	<dimen name="toolbar_imageview_width">15dp</dimen>
+
+	<dimen name="register_edittext_start_end">20dp</dimen>
+	<dimen name="register_or_width">40dp</dimen>
+	<dimen name="register_or_start_end">8dp</dimen>
+
+	<dimen name="logo_imageView_top">20dp</dimen>
+	<dimen name="view_pager_top">12dp</dimen>
+	<dimen name="layout_dots_top">12dp</dimen>
+	<dimen name="intro_title_tv_textsize">16dp</dimen>
+	<dimen name="intro_sub_title_tv_textsize">12dp</dimen>
+	<dimen name="intro_sub_title_tv_top">8dp</dimen>
+	<dimen name="intro_sub_title_tv_bottom">20dp</dimen>
+
+	<dimen name="welcome_line_view_width">10dp</dimen>
+	<dimen name="welcome_line_view_height">70dp</dimen>
+	<dimen name="welcome_line_view_bottom">8dp</dimen>
+	<dimen name="welcome_guest_tv_top">30dp</dimen>
+	<dimen name="welcome_social_button_width_height">30dp</dimen>
+	<dimen name="welcome_social_button_top">8dp</dimen>
+
+	<dimen name="intro_choose_lang_textsize">16dp</dimen>
+	<dimen name="intro_lang_eng_tv_width_height">80dp</dimen>
+	<dimen name="intro_lang_eng_tv_textsize">18dp</dimen>
+	<dimen name="intro_lang_eng_tv_top">7dp</dimen>
+
+	<dimen name="custom_prog_tab_date_textView_textsize">13dp</dimen>
+	<dimen name="custom_prog_tab_day_textView_textsize">13dp</dimen>
+	<dimen name="custom_prog_tab_day_textView_top">-8dp</dimen>
+
+	<dimen name="filter_textsize">13dp</dimen>
+	<dimen name="filter_sub_label_textsize">10dp</dimen>
+	<dimen name="filter_cancel_img_width_height">35dp</dimen>
+	<dimen name="top_picks_listing_tab_imageView_width_size">250dp</dimen>
+
+	<dimen name="custom_map_ar_tab_title_textsize">14dp</dimen>
+    <dimen name="explore_talk_width_size">272dp</dimen>
+	<dimen name="explore_talk_height_size">96dp</dimen>
+	<dimen name="explore_speaker_width_size">160dp</dimen>
+	<dimen name="explore_speaker_height_size">148dp</dimen>
+	<dimen name="explore_recap_height_size">175dp</dimen>
+	<dimen name="video_play_wh_size">54dp</dimen>
+    <dimen name="serach_explore_height">50dp</dimen>
+	<dimen name="explore_intro_image_height">290dp</dimen>
+	<dimen name="explore_intro_image_width">180dp</dimen>
+    <dimen name="explore_initiative_height">43dp</dimen>
+
+	<dimen name="global_curve_radius">18dp</dimen>
+	<dimen name="global_curve_radius_negative">-18dp</dimen>
+
+    <dimen name="serach_images_width">26dp</dimen>
+	<dimen name="serach_images_height">21dp</dimen>
+	<dimen name="serach_box_height">54dp</dimen>
+    <dimen name="speaker_work_details">130dp</dimen>
+    <dimen name="speaker_detail_programe_title">220dp</dimen>
+    <dimen name="explore_upcoming_programme_listing_tab_date_textsize">13dp</dimen>
+
+	<dimen name="welcome_armaco_logo_width">130dp</dimen>
+	<dimen name="welcome_armaco_logo_height">40dp</dimen>
+	<dimen name="welcome_abdulaziz_logo_width">260dp</dimen>
+	<dimen name="welcome_abdulaziz_logo_height">35dp</dimen>
+	<dimen name="welcome_armaco_logo_bottom">12dp</dimen>
+	<dimen name="welcome_armaco_logo_top">8dp</dimen>
+
+	<dimen name="top_picks_listing_tab_location_textView_textsize">11dp</dimen>
+
+    <dimen name="explore_profile_logo_imageView_width_height">30dp</dimen>
+	<dimen name="home_search_tv_top_bottom_padding">15dp</dimen>
+
+	<dimen name="global_view_top_bottom">15dp</dimen>
+	<dimen name="global_view_top_bottom_negative">-15dp</dimen>
+	<dimen name="home_about_tv_textsize">12dp</dimen>
+	<dimen name="home_about_readmore_bottom">-30dp</dimen>
+	<dimen name="home_about_readmore_padding">10dp</dimen>
+	<dimen name="home_about_tv_top">8dp</dimen>
+    <dimen name="programme_listing_tab_ticket_img_height">15dp</dimen>
+    <dimen name="filter_rl_top">10dp</dimen>
+
+    <dimen name="user_profile_lang_eng_view_top">8dp</dimen>
+	<dimen name="programme_toolbar_padding_bottom">8dp</dimen>
+	<dimen name="prog_toolbar_date_label_tv_textsize">12dp</dimen>
+	<dimen name="my_schedule_toolbar_my_favorites_tv_textsize">13dp</dimen>
+    <dimen name="buy_ticket_button_textsize">15dp</dimen>
+    <dimen name="dimen_programme_detail_gallery_image_height">70dp</dimen>
+    <dimen name="progress_bar_width_height">40dp</dimen>
+    <dimen name="img_clock_width_height">45dp</dimen>
+    <dimen name="img_clock_linear_start">11dp</dimen>
+    <dimen name="programme_detail_date_tv_textsize">12dp</dimen>
+
+	<dimen name="pdf_label_textsize">12dp</dimen>
+	<dimen name="programme_detail_buy_tickets_description_textsize">9dp</dimen>
+	<dimen name="multiple_dates_cl_top">6dp</dimen>
+	<dimen name="multiple_dates_cl_padding">8dp</dimen>
+	<dimen name="multiple_dates_date_start">8dp</dimen>
+	<dimen name="multiple_dates_date_textsize">15dp</dimen>
+    <dimen name="programme_detail_favorite_button_size">16dp</dimen>
+    <dimen name="programme_detail_rl_top_negative">-50dp</dimen>
+    <dimen name="news_detail_player_bottom">30dp</dimen>
+    <dimen name="toolbar_end_margin">15dp</dimen>
+    <dimen name="welcome_login_button_small_height">29dp</dimen>
+
+	<dimen name="behavior_peekHeight">520dp</dimen>
+
+	<dimen name="my_interest_filter_textsize">14dp</dimen>
+	<dimen name="my_interest_filter_start_end">10dp</dimen>
+	<dimen name="my_interest_filter_top_bottom">8dp</dimen>
+    <dimen name="filter_scrollviw_margin_bottom">100dp</dimen>
+    <dimen name="from_text_size">10dp</dimen>
+
+	<dimen name="indicator_width_height_normal">10dp</dimen>
+	<dimen name="indicator_width_height_selected">15dp</dimen>
+
+	<dimen name="cluster_programme_margin">8dp</dimen>
+	<dimen name="cluster_programme_img_width_height">30dp</dimen>
+	<dimen name="cluster_programme_title_size">14dp</dimen>
+	<dimen name="cluster_programme_location_size">12dp</dimen>
+
+	<dimen name="programme_list_img_corner">8dp</dimen>
+	<dimen name="intro_img_padding">11dp</dimen>
+
+	<dimen name="button_curve">20dp</dimen>
+	<dimen name="nbutton_curve">-20dp</dimen>
+
+	<dimen name="square_indicator_width">22dp</dimen>
+	<dimen name="square_indicator_height">3dp</dimen>
+	<dimen name="square_indicator_start">4dp</dimen>
+	<dimen name="square_indicator_radius">2dp</dimen>
+	<dimen name="home_social_icon_width_height">11dp</dimen>
+
+	<dimen name="get_ticket_filter_height">36dp</dimen>
+	<dimen name="get_ticket_filter_textsize">14dp</dimen>
+	<dimen name="tab_shows_timing_view_height">35dp</dimen>
+	<dimen name="tab_shows_timing_view_corner">14dp</dimen>
+	<dimen name="shows_timing_tv_padding_start_end">10dp</dimen>
+	<dimen name="tab_get_ticket_tv_start">8dp</dimen>
+	<dimen name="pd_categ_cardview_corner">10dp</dimen>
+	<dimen name="pd_date_cardview_corner">12dp</dimen>
+	<dimen name="pd_buy_tickets_label_padding_top_bottom">11dp</dimen>
+	<dimen name="pd_buy_tickets_lc_ticket_type_textsize">16dp</dimen>
+	<dimen name="pd_buy_tickets_lc_ticket_type_descp_textsize">10dp</dimen>
+	<dimen name="pd_detail_buy_tickets_description_top_bottom">10dp</dimen>
+    <dimen name="tab_whatson_category_cardview_corner">10dp</dimen>
+    <dimen name="announcement_container_min_height">125dp</dimen>
+	<dimen name="announcement_container_max_height">225dp</dimen>
+    <dimen name="home_containers_bottom_padding">40dp</dimen>
+	<dimen name="explore_upcoming_programme_listing_tab_imageView_width_expanded">170dp</dimen>
+    <dimen name="explore_upcoming_programme_listing_tab_imageView_height_short">136dp</dimen>
+
+</resources>

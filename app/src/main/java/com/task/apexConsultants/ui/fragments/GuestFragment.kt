@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import apexConsultants.R
 import apexConsultants.databinding.FragmentGuestBinding
 import com.google.android.material.snackbar.Snackbar
-import com.task.apexConsultants.Guest
 import com.task.apexConsultants.MVVM.MainViewModel
 
 class GuestFragment : Fragment() {
@@ -69,7 +68,7 @@ class GuestFragment : Fragment() {
             it.type == "have_seat" && it.checked == true
         }
 
-        val needSeat =viewModel. guestsList.filter {
+        val needSeat = viewModel.guestsList.filter {
             it.type == "need_seat"
         }
 
@@ -107,15 +106,6 @@ class GuestFragment : Fragment() {
         else
             binding.continueButton.alpha = 0.5f
     }
-
-//    private fun populateList() {
-//        guestsList.add(Guest(getString(R.string.have_reservations), "title", false))
-//        guestsList.add(Guest("Dale Gibson", "have_seat", false))
-//        guestsList.add(Guest("Jeremy Gibson", "have_seat", false))
-//        guestsList.add(Guest(getString(R.string.need_reservations), "title", false))
-//        guestsList.add(Guest("Linda Gibson", "need_seat", false))
-//        guestsList.add(Guest("Margaret Gibson", "need_seat", false))
-//    }
 
     private fun setupRecyclerView() = binding.recyclerview1.apply {
         postsAdapter = GuestsAdapter(viewModel.guestsList) {
